@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/jimmy/Projects/SunswiftTimeline/backend/build/cmake_install.cmake",
+		"/Users/jimmy/Projects/SunswiftTimeline/backend/build/Src/Scheduler/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

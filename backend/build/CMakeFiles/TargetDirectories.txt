@@ -1,0 +1,6 @@
+/Users/jimmy/Projects/SunswiftTimeline/backend/build/CMakeFiles/main.dir
+/Users/jimmy/Projects/SunswiftTimeline/backend/build/CMakeFiles/edit_cache.dir
+/Users/jimmy/Projects/SunswiftTimeline/backend/build/CMakeFiles/rebuild_cache.dir
+/Users/jimmy/Projects/SunswiftTimeline/backend/build/Src/Scheduler/CMakeFiles/SchedulerModule.dir
+/Users/jimmy/Projects/SunswiftTimeline/backend/build/Src/Scheduler/CMakeFiles/edit_cache.dir
+/Users/jimmy/Projects/SunswiftTimeline/backend/build/Src/Scheduler/CMakeFiles/rebuild_cache.dir
